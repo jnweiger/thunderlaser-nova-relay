@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202202050852+0a00cf5339)"
+   sodipodi:docname="schematics.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="0.56780396"
+     inkscape:cx="417.39758"
+     inkscape:cy="474.63565"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g12917">
+      <g
+         id="g9803"
+         transform="translate(20,18)"
+         style="stroke:#000000">
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle9657"
+           cx="5"
+           cy="65"
+           r="1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="M 5.9999998,64.999999 20,65"
+           id="path9659"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle9661"
+           cx="5"
+           cy="75"
+           r="1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="M 6,75 H 20"
+           id="path9663"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="-1.3649993"
+           y="71.564102"
+           id="text9667"><tspan
+             sodipodi:role="line"
+             id="tspan9665"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:none;stroke-width:0.264583"
+             x="-1.3649993"
+             y="71.564102">240 V</tspan></text>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="rect9669"
+           width="25"
+           height="30.000002"
+           x="20"
+           y="60" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="24.673405"
+           y="94.648392"
+           id="text9675"><tspan
+             sodipodi:role="line"
+             id="tspan9671"
+             style="stroke:none;stroke-width:0.264583"
+             x="24.673405"
+             y="94.648392">5V DC</tspan><tspan
+             sodipodi:role="line"
+             style="stroke:none;stroke-width:0.264583"
+             x="24.673405"
+             y="99.940056"
+             id="tspan9673">1000 mA</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="M 44.999997,84.999998 H 130 V 80"
+           id="path9677"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 120,69.999999 v 9.999999 h 20 v -9.999999 z"
+           id="path9679" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 122,79.999998 16,-9.999999"
+           id="path9681" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 130,69.999999 v -5 H 45.000003"
+           id="path9683" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 165,59.999998 h -20 v 5.000001"
+           id="path9685" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 145,84.999998 v 5.000001 h 20"
+           id="path9687" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle9689"
+           cx="166"
+           cy="60"
+           r="1" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle9691"
+           cx="166"
+           cy="90"
+           r="1" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="162"
+           y="75"
+           id="text9695"><tspan
+             sodipodi:role="line"
+             id="tspan9693"
+             style="stroke:none;stroke-width:0.264583"
+             x="162"
+             y="75">8Pin RJ45</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="168"
+           y="61"
+           id="text9699"><tspan
+             sodipodi:role="line"
+             id="tspan9697"
+             style="stroke:none;stroke-width:0.264583"
+             x="168"
+             y="61">4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="168"
+           y="91"
+           id="text9703"><tspan
+             sodipodi:role="line"
+             id="tspan9701"
+             style="stroke:none;stroke-width:0.264583"
+             x="168"
+             y="91">5</tspan></text>
+        <circle
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle9705"
+           cx="145"
+           cy="66"
+           r="1" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle9707"
+           cx="145"
+           cy="84"
+           r="1" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle9709"
+           cx="151"
+           cy="83"
+           r="1" />
+        <path
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 145,65.999999 5,17.999999"
+           id="path9711" />
+        <path
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 140,75 h 1"
+           id="path9713" />
+        <path
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 142,75 h 1"
+           id="path9715" />
+        <path
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 144,75 h 1"
+           id="path9717" />
+        <path
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 146,75 h 1"
+           id="path9719" />
+        <g
+           id="g9739"
+           transform="translate(10)"
+           style="stroke:#000000">
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 55,64.999999 v 5 V 71"
+             id="path9721"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="M 55,84.999998 V 79"
+             id="path9723"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,78.999998 h 9.999998 L 60,76 H 50 Z"
+             id="path9725"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,71 v 3 h 9.999998 v -3.000002 z"
+             id="path9727"
+             sodipodi:nodetypes="ccccc" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle9729"
+             cx="55"
+             cy="65"
+             r="1" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle9731"
+             cx="55"
+             cy="85"
+             r="1" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+             x="47.999996"
+             y="95"
+             id="text9737"><tspan
+               sodipodi:role="line"
+               id="tspan9733"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="95">5600µF</tspan><tspan
+               sodipodi:role="line"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="100.29166"
+               id="tspan9735">16V</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:#000000;stroke-width:0.264583"
+           x="40"
+           y="66"
+           id="text9743"><tspan
+             sodipodi:role="line"
+             id="tspan9741"
+             style="stroke:#000000;stroke-width:0.264583"
+             x="40"
+             y="66">+</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:#000000;stroke-width:0.264583"
+           x="41"
+           y="86"
+           id="text9747"><tspan
+             sodipodi:role="line"
+             id="tspan9745"
+             style="stroke:#000000;stroke-width:0.264583"
+             x="41"
+             y="86">-</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:#000000;stroke-width:0.264583"
+           x="21.999998"
+           y="66"
+           id="text9751"><tspan
+             sodipodi:role="line"
+             id="tspan9749"
+             style="stroke:#000000;stroke-width:0.264583"
+             x="21.999998"
+             y="66">~</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:#000000;stroke-width:0.264583"
+           x="21.999998"
+           y="76"
+           id="text9755"><tspan
+             sodipodi:role="line"
+             id="tspan9753"
+             style="stroke:#000000;stroke-width:0.264583"
+             x="21.999998"
+             y="76">~</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="118.04755"
+           y="94.944191"
+           id="text9761"><tspan
+             sodipodi:role="line"
+             id="tspan9757"
+             style="stroke:none;stroke-width:0.264583"
+             x="118.04755"
+             y="94.944191">MEDER</tspan><tspan
+             sodipodi:role="line"
+             style="stroke:none;stroke-width:0.264583"
+             x="118.04755"
+             y="100.23586"
+             id="tspan9759">SIL05-1A57-71L</tspan></text>
+        <g
+           id="g9781"
+           transform="translate(30)"
+           style="stroke:#000000">
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 55,64.999999 v 5 V 71"
+             id="path9763"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="M 55,84.999998 V 79"
+             id="path9765"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,78.999998 h 9.999998 L 60,76 H 50 Z"
+             id="path9767"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,71 v 3 h 9.999998 v -3.000002 z"
+             id="path9769"
+             sodipodi:nodetypes="ccccc" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle9771"
+             cx="55"
+             cy="65"
+             r="1" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle9773"
+             cx="55"
+             cy="85"
+             r="1" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+             x="47.999996"
+             y="95"
+             id="text9779"><tspan
+               sodipodi:role="line"
+               id="tspan9775"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="95">5600µF</tspan><tspan
+               sodipodi:role="line"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="100.29166"
+               id="tspan9777">16V</tspan></text>
+        </g>
+        <g
+           id="g9801"
+           transform="translate(50)"
+           style="stroke:#000000">
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 55,64.999999 v 5 V 71"
+             id="path9783"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="M 55,84.999998 V 79"
+             id="path9785"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,78.999998 h 9.999998 L 60,76 H 50 Z"
+             id="path9787"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,71 v 3 h 9.999998 v -3.000002 z"
+             id="path9789"
+             sodipodi:nodetypes="ccccc" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle9791"
+             cx="55"
+             cy="65"
+             r="1" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle9793"
+             cx="55"
+             cy="85"
+             r="1" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+             x="47.999996"
+             y="95"
+             id="text9799"><tspan
+               sodipodi:role="line"
+               id="tspan9795"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="95">5600µF</tspan><tspan
+               sodipodi:role="line"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="100.29166"
+               id="tspan9797">16V</tspan></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="20"
+         y="67"
+         id="text9807"><tspan
+           sodipodi:role="line"
+           id="tspan9805"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+           x="20"
+           y="67">Zeitschaltrelais, potentialfrei. Abschaltverzögerung: 20sec</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+         x="193.25536"
+         y="52"
+         id="text9811"><tspan
+           sodipodi:role="line"
+           id="tspan9809"
+           style="font-size:3.52778px;text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="193.25536"
+           y="52">2022-03-14, jw</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="193.25536"
+           y="56.409725"
+           id="tspan9430">https://github.com/jnweiger/thunderlaser-nova-relay</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="193.25536"
+           y="60.81945"
+           id="tspan9428" /></text>
+    </g>
+    <g
+       id="g13079"
+       transform="translate(0,100)">
+      <g
+         id="g13065"
+         transform="translate(20,18)"
+         style="stroke:#000000">
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle12919"
+           cx="5"
+           cy="65"
+           r="1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="M 5.9999998,64.999999 20,65"
+           id="path12921"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle12923"
+           cx="5"
+           cy="75"
+           r="1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="M 6,75 H 20"
+           id="path12925"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="-1.3649993"
+           y="71.564102"
+           id="text12929"><tspan
+             sodipodi:role="line"
+             id="tspan12927"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:none;stroke-width:0.264583"
+             x="-1.3649993"
+             y="71.564102">240 V</tspan></text>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="rect12931"
+           width="25"
+           height="30.000002"
+           x="20"
+           y="60" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="24.673405"
+           y="94.648392"
+           id="text12937"><tspan
+             sodipodi:role="line"
+             id="tspan12933"
+             style="stroke:none;stroke-width:0.264583"
+             x="24.673405"
+             y="94.648392">5V DC</tspan><tspan
+             sodipodi:role="line"
+             style="stroke:none;stroke-width:0.264583"
+             x="24.673405"
+             y="99.940056"
+             id="tspan12935">1000 mA</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="M 44.999997,84.999998 H 130 V 80"
+           id="path12939"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 120,69.999999 v 9.999999 h 20 v -9.999999 z"
+           id="path12941" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 122,79.999998 16,-9.999999"
+           id="path12943" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 130,69.999999 v -5 H 45.000003"
+           id="path12945" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 165,59.999998 h -20 v 5.000001"
+           id="path12947" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 145,84.999998 v 5.000001 h 20"
+           id="path12949" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle12951"
+           cx="166"
+           cy="60"
+           r="1" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle12953"
+           cx="166"
+           cy="90"
+           r="1" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="162"
+           y="75"
+           id="text12957"><tspan
+             sodipodi:role="line"
+             id="tspan12955"
+             style="stroke:none;stroke-width:0.264583"
+             x="162"
+             y="75">8Pin RJ45</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="168"
+           y="61"
+           id="text12961"><tspan
+             sodipodi:role="line"
+             id="tspan12959"
+             style="stroke:none;stroke-width:0.264583"
+             x="168"
+             y="61">4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="168"
+           y="91"
+           id="text12965"><tspan
+             sodipodi:role="line"
+             id="tspan12963"
+             style="stroke:none;stroke-width:0.264583"
+             x="168"
+             y="91">5</tspan></text>
+        <circle
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle12967"
+           cx="145"
+           cy="66"
+           r="1" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle12969"
+           cx="145"
+           cy="84"
+           r="1" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           id="circle12971"
+           cx="151"
+           cy="83"
+           r="1" />
+        <path
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 145,65.999999 5,17.999999"
+           id="path12973" />
+        <path
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 140,75 h 1"
+           id="path12975" />
+        <path
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 142,75 h 1"
+           id="path12977" />
+        <path
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 144,75 h 1"
+           id="path12979" />
+        <path
+           style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+           d="m 146,75 h 1"
+           id="path12981" />
+        <g
+           id="g13001"
+           transform="translate(10)"
+           style="stroke:#000000">
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 55,64.999999 v 5 V 71"
+             id="path12983"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="M 55,84.999998 V 79"
+             id="path12985"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,78.999998 h 9.999998 L 60,76 H 50 Z"
+             id="path12987"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,71 v 3 h 9.999998 v -3.000002 z"
+             id="path12989"
+             sodipodi:nodetypes="ccccc" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle12991"
+             cx="55"
+             cy="65"
+             r="1" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle12993"
+             cx="55"
+             cy="85"
+             r="1" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+             x="47.999996"
+             y="95"
+             id="text12999"><tspan
+               sodipodi:role="line"
+               id="tspan12995"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="95">5600µF</tspan><tspan
+               sodipodi:role="line"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="100.29166"
+               id="tspan12997">16V</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:#000000;stroke-width:0.264583"
+           x="40"
+           y="66"
+           id="text13005"><tspan
+             sodipodi:role="line"
+             id="tspan13003"
+             style="stroke:#000000;stroke-width:0.264583"
+             x="40"
+             y="66">+</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:#000000;stroke-width:0.264583"
+           x="41"
+           y="86"
+           id="text13009"><tspan
+             sodipodi:role="line"
+             id="tspan13007"
+             style="stroke:#000000;stroke-width:0.264583"
+             x="41"
+             y="86">-</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:#000000;stroke-width:0.264583"
+           x="21.999998"
+           y="66"
+           id="text13013"><tspan
+             sodipodi:role="line"
+             id="tspan13011"
+             style="stroke:#000000;stroke-width:0.264583"
+             x="21.999998"
+             y="66">~</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:#000000;stroke-width:0.264583"
+           x="21.999998"
+           y="76"
+           id="text13017"><tspan
+             sodipodi:role="line"
+             id="tspan13015"
+             style="stroke:#000000;stroke-width:0.264583"
+             x="21.999998"
+             y="76">~</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+           x="118.04755"
+           y="94.944191"
+           id="text13023"><tspan
+             sodipodi:role="line"
+             id="tspan13019"
+             style="stroke:none;stroke-width:0.264583"
+             x="118.04755"
+             y="94.944191">MEDER</tspan><tspan
+             sodipodi:role="line"
+             style="stroke:none;stroke-width:0.264583"
+             x="118.04755"
+             y="100.23586"
+             id="tspan13021">SIL05-1A57-71L</tspan></text>
+        <g
+           id="g13043"
+           transform="translate(30)"
+           style="stroke:#000000">
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 55,64.999999 v 5 V 71"
+             id="path13025"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="M 55,84.999998 V 79"
+             id="path13027"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,78.999998 h 9.999998 L 60,76 H 50 Z"
+             id="path13029"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,71 v 3 h 9.999998 v -3.000002 z"
+             id="path13031"
+             sodipodi:nodetypes="ccccc" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle13033"
+             cx="55"
+             cy="65"
+             r="1" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle13035"
+             cx="55"
+             cy="85"
+             r="1" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+             x="47.999996"
+             y="95"
+             id="text13041"><tspan
+               sodipodi:role="line"
+               id="tspan13037"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="95">5600µF</tspan><tspan
+               sodipodi:role="line"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="100.29166"
+               id="tspan13039">16V</tspan></text>
+        </g>
+        <g
+           id="g13063"
+           transform="translate(50)"
+           style="stroke:#000000">
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 55,64.999999 v 5 V 71"
+             id="path13045"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="M 55,84.999998 V 79"
+             id="path13047"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,78.999998 h 9.999998 L 60,76 H 50 Z"
+             id="path13049"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             d="m 50,71 v 3 h 9.999998 v -3.000002 z"
+             id="path13051"
+             sodipodi:nodetypes="ccccc" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle13053"
+             cx="55"
+             cy="65"
+             r="1" />
+          <circle
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stop-color:#000000"
+             id="circle13055"
+             cx="55"
+             cy="85"
+             r="1" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke:none;stroke-width:0.264583"
+             x="47.999996"
+             y="95"
+             id="text13061"><tspan
+               sodipodi:role="line"
+               id="tspan13057"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="95">5600µF</tspan><tspan
+               sodipodi:role="line"
+               style="stroke:none;stroke-width:0.264583"
+               x="47.999996"
+               y="100.29166"
+               id="tspan13059">16V</tspan></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="20"
+         y="67"
+         id="text13069"><tspan
+           sodipodi:role="line"
+           id="tspan13067"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+           x="20"
+           y="67">Zeitschaltrelais, potentialfrei. Abschaltverzögerung: 20sec</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+         x="193.25536"
+         y="52"
+         id="text13077"><tspan
+           sodipodi:role="line"
+           id="tspan13071"
+           style="font-size:3.52778px;text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="193.25536"
+           y="52">2022-03-14, jw</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="193.25536"
+           y="56.409725"
+           id="tspan13073">https://github.com/jnweiger/thunderlaser-nova-relay</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="193.25536"
+           y="60.81945"
+           id="tspan13075" /></text>
+    </g>
+  </g>
+</svg>
